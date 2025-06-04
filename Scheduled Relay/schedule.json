@@ -1,0 +1,10 @@
+[
+  { "day": "we", "time": "11:11", "state": "off" },
+  { "day": "we", "time": "11:12", "state": "on" },
+  { "day": "we", "time": "11:13", "state": "off" },
+  { "day": "we", "time": "11:14", "state": "on" },
+  { "day": "we", "time": "11:15", "state": "off" },
+  { "day": "we", "time": "11:16", "state": "on" },
+  { "day": "we", "time": "11:17", "state": "off" },
+  { "day": "we", "time": "11:18", "state": "on" }
+]
