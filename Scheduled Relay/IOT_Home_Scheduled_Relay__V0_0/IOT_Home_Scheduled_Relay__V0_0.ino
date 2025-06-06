@@ -10,8 +10,8 @@
 WiFiUDP ntpUDP;
 NTPClient timeClient(ntpUDP, "pool.ntp.org", 12600, 60000); // Iran timezone offset = 3.5 hrs = 12600 sec
 
-const char* ssid = "gando";
-const char* password = "@e6974r*";
+const char* ssid = "********";
+const char* password = "********";
 
 unsigned long previousMillis = 0;
 const unsigned long interval = 60000;  // 60 seconds
